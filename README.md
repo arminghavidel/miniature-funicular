@@ -2,7 +2,7 @@
 
 ## How to run this project?
 
-This guide will walk you through the process of setting up and running the Payever Test project.
+This guide will walk you through the process of setting up and running a Test project.
 
 ### Prerequisites
 
@@ -46,4 +46,4 @@ Follow these steps to set up the project:
    npm run start
    ```
 
-After following these steps, the Payever Test application should be running and accessible.
+After following these steps, the Test application should be running and accessible.
